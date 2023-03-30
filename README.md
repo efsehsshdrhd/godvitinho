@@ -1,4 +1,4 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
 <p align="center">
@@ -16,3 +16,6 @@
   <p align="center">
     <a href="https://github.com/yeedny">
 </p><br>
+    
+    
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
